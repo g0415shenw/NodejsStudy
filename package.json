@@ -1,0 +1,27 @@
+{
+  "name": "nodejsstudy",
+  "version": "1.0.0",
+  "description": "主要记录nodejs的学习示例demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/g0415shenw/NodejsStudy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g0415shenw/NodejsStudy/issues"
+  },
+  "homepage": "https://github.com/g0415shenw/NodejsStudy#readme",
+  "devDependencies": {
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "@types/ws": "^8.2.2",
+    "ws": "^8.5.0"
+  }
+}
